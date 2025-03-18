@@ -1,0 +1,33 @@
+.custbtn {
+  border-color: rgb(96, 26, 103) !important;
+  color: rgb(96, 26, 103) !important;
+}
+
+.custbtn:hover{
+  background-color: rgb(96, 26, 103) !important;
+  color: white !important;
+}
+
+.modal-content{
+  background: linear-gradient(31deg, rgb(44, 23, 46) 0%, rgb(80, 21, 86) 58%, rgb(114, 21, 124) 100%) !important; 
+}
+
+.savebtn{
+  border-color: white !important;
+  color: rgb(96, 26, 103) !important;
+  background-color: white !important;
+}
+.savebtn:hover{
+  border-color: white !important;
+  color: white !important;
+  background-color: rgb(134, 36, 143) !important;
+}
+
+.closebtn{
+  background-color: rgb(239, 205, 243);
+  color: rgb(25, 25, 25) !important;
+}
+.closebtn:hover{
+  background-color: rgb(67, 57, 68);
+  color: rgb(255, 255, 255) !important;
+}
